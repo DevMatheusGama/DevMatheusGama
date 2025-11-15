@@ -25,18 +25,18 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 
 ---
 
-## 🧠 Tecnologias & Ferramentas
+## 🛠️ Tecnologias que utilizo
 
-<div align="center">
+<div style="display: flex; gap: 10px; flex-wrap: wrap">
 
-| Front-end | Estilização | Utilidades |
-|-----------|-------------|------------|
-| ![](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) | ![](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) | ![](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) |
-| ![](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript) | ![](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3) | ![](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) |
-| ![](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) | ![](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss) | ![](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel) |
-| ![](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs) |  |  |
+<img height="35" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+<img height="35" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
+<img height="35" src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react"/>
+<img height="35" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs"/>
+<img height="35" src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5"/>
+<img height="35" src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3"/>
+<img height="35" src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss"/>
 
-</div>
 
 ---
 
