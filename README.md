@@ -42,8 +42,7 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 
 ## ⭐ Projetos em Destaque
 
-### 🛒 **Mini E-commerce (Projeto Escolar)**
-📦 Carrinho funcional  
+### 🛒 **Mini E-commerce (Projeto Escolar)** 
 🖥️ Layout responsivo  
 ⚛️ Componentização inteligente  
 🎨 Construído com React / Tailwind  
@@ -54,7 +53,7 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 
 ### 🌤️ **App de Clima**
 🌡️ Consumo de API em tempo real  
-⚛️ Next.js + React  
+⚛️ React  
 📱 Totalmente responsivo  
 🔍 Exibe temperatura, vento, umidade e mais  
 
