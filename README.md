@@ -88,7 +88,7 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 https://www.linkedin.com/in/matheus-gama-48a0b6399/
 
 ✉️ **Email:**  
-*Adicione seu email aqui se quiser incluir no README*
+devmatheusgama@gmail.com
 
 ---
 
