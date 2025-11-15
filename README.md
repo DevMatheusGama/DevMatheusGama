@@ -35,14 +35,13 @@ Gosto de criar aplicações funcionais e bem estruturadas, sempre buscando boas 
 ## 📌 Projetos em destaque
 
 ### 🛒 Mini E-commerce (Projeto Escolar)
-- Interface moderna e responsiva  
-- Carrinho funcional  
+- Interface moderna e responsiva   
 - Componentes reutilizáveis  
 - Integração com dados mockados  
 <br/>
 
 ### 🌤️ App de Clima
-- Feito com React/Next.js  
+- Feito com React 
 - Consumo de API de clima  
 - Layout elegante e amigável  
 - Exibe temperatura, umidade, vento e mais  
@@ -64,7 +63,7 @@ Gosto de criar aplicações funcionais e bem estruturadas, sempre buscando boas 
 
 ## 📫 Contato
 📌 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/matheus-gama-48a0b6399/)  
-📌 **Email:** *adicione seu email se quiser que eu inclua no README*
+📌 **Email:** devmatheusgama@gmail.com
 
 ---
 
