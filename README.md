@@ -45,7 +45,7 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 ### 🛒 **Mini E-commerce (Projeto Escolar)** 
 🖥️ Layout responsivo  
 ⚛️ Componentização inteligente  
-🎨 Construído com React / Tailwind  
+🎨 Construído com React/Next.js e Tailwind  
 
 👉(https://site-agro-zenite.vercel.app/)
 
@@ -55,7 +55,7 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 🔐 Login e criação de contas  
 📝 CRUD completo de tarefas  
 ⚛️ Feito com React/Next.js  
-📦 Banco de dados (especifique: Supabase, Mongo, Drizzle, Prisma, etc)  
+📦 Banco de dados (Drizzle + PostgreSQL)  
 🎨 Estilização moderna (Tailwind)
 
 👉 [*Adicione o link do repositório aqui depois*](https://lista-de-tarefas-opal-six.vercel.app/)
