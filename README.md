@@ -51,6 +51,17 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 
 ---
 
+### ✅ Lista de Tarefas com Autenticação
+🔐 Login e criação de contas  
+📝 CRUD completo de tarefas  
+⚛️ Feito com React/Next.js  
+📦 Banco de dados (especifique: Supabase, Mongo, Drizzle, Prisma, etc)  
+🎨 Estilização moderna (Tailwind)
+
+👉 [*Adicione o link do repositório aqui depois*](https://lista-de-tarefas-opal-six.vercel.app/)
+
+---
+
 ### 🌤️ **App de Clima**
 🌡️ Consumo de API em tempo real  
 ⚛️ React  
