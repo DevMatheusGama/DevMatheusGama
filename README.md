@@ -72,7 +72,7 @@ Site desenvolvido para apresentar meus **projetos pessoais**, habilidades e tecn
 - 🎨 Estilização moderna e responsiva com Tailwind CSS
 - 🚀 Deploy na Vercel
 
-👉 [Acessar portfólio](https://lista-de-tarefas-opal-six.vercel.app/)
+👉 [Acessar portfólio](https://meu-portifolio-snowy-five.vercel.app/)
 
 ---
 
@@ -82,7 +82,7 @@ Site desenvolvido para apresentar meus **projetos pessoais**, habilidades e tecn
 📱 Totalmente responsivo  
 🔍 Exibe temperatura, vento, umidade e mais  
 
-👉 (https://meu-portifolio-snowy-five.vercel.app/)
+👉 (https://lista-de-tarefas-opal-six.vercel.app/)
 
 ---
 
