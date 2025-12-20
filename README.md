@@ -62,13 +62,27 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 
 ---
 
+### 🌐 Portfólio Pessoal
+
+Site desenvolvido para apresentar meus **projetos pessoais**, habilidades e tecnologias que utilizo.
+
+- 🧑‍💻 Apresentação profissional e seção “Sobre mim”
+- 📂 Área de projetos com descrição e links
+- ⚛️ Desenvolvido com React / Next.js
+- 🎨 Estilização moderna e responsiva com Tailwind CSS
+- 🚀 Deploy na Vercel
+
+👉 [Acessar portfólio](https://lista-de-tarefas-opal-six.vercel.app/)
+
+---
+
 ### 🌤️ **App de Clima**
 🌡️ Consumo de API em tempo real  
 ⚛️ React  
 📱 Totalmente responsivo  
 🔍 Exibe temperatura, vento, umidade e mais  
 
-👉 (https://aplicativo-de-clima-three.vercel.app/)
+👉 (https://meu-portifolio-snowy-five.vercel.app/)
 
 ---
 
@@ -100,6 +114,8 @@ https://www.linkedin.com/in/matheus-gama-48a0b6399/
 ✉️ **Email:**  
 devmatheusgama@gmail.com
 
+🔗 **Portifolio:**
+https://meu-portifolio-snowy-five.vercel.app/
 ---
 
 <p align="center">🌟 Obrigado por visitar meu perfil! Sempre aberto a novas conexões e oportunidades.</p>
