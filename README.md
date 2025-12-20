@@ -58,7 +58,7 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 📦 Banco de dados (Drizzle + PostgreSQL)  
 🎨 Estilização moderna (Tailwind)
 
-👉 [*Adicione o link do repositório aqui depois*](https://lista-de-tarefas-opal-six.vercel.app/)
+👉 (https://lista-de-tarefas-opal-six.vercel.app/)
 
 ---
 
@@ -72,7 +72,7 @@ Site desenvolvido para apresentar meus **projetos pessoais**, habilidades e tecn
 - 🎨 Estilização moderna e responsiva com Tailwind CSS
 - 🚀 Deploy na Vercel
 
-👉 [Acessar portfólio](https://meu-portifolio-snowy-five.vercel.app/)
+👉 (https://meu-portifolio-snowy-five.vercel.app/)
 
 ---
 
