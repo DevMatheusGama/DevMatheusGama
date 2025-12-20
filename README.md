@@ -112,8 +112,6 @@ https://www.linkedin.com/in/matheus-gama-48a0b6399/
 ✉️ **Email:**  
 devmatheusgama@gmail.com
 
-🔗 **Portifolio:**
-https://meu-portifolio-snowy-five.vercel.app/
 ---
 
 <p align="center">🌟 Obrigado por visitar meu perfil! Sempre aberto a novas conexões e oportunidades.</p>
