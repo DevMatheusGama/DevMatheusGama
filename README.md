@@ -64,8 +64,6 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 
 ### 🌐 Portfólio Pessoal
 
-Site desenvolvido para apresentar meus **projetos pessoais**, habilidades e tecnologias que utilizo.
-
 - 🧑‍💻 Apresentação profissional e seção “Sobre mim”
 - 📂 Área de projetos com descrição e links
 - ⚛️ Desenvolvido com React / Next.js
