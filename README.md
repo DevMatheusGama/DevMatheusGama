@@ -87,19 +87,14 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevMatheusGama&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusGama&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevMatheusGama&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusGama&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-
----
 
 ## 🔥 Atividade recente
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DevMatheusGama&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DevMatheusGama&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
