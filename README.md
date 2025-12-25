@@ -40,7 +40,7 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 
 ---
 
-## ⭐ Projetos em Destaque
+## ⭐ Projetos
 
 ### 🛒 **Mini E-commerce (Projeto Escolar)** 
 🖥️ Layout responsivo  
