@@ -51,17 +51,6 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 
 ---
 
-### ✅ Lista de Tarefas com Autenticação
-🔐 Login e criação de contas  
-📝 CRUD completo de tarefas  
-⚛️ Feito com React/Next.js  
-📦 Banco de dados (Drizzle + PostgreSQL)  
-🎨 Estilização moderna (Tailwind)
-
-👉 (https://lista-de-tarefas-opal-six.vercel.app/)
-
----
-
 ### 🌐 Portfólio Pessoal
 
 - 🧑‍💻 Apresentação profissional e seção “Sobre mim”
