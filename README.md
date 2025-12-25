@@ -80,7 +80,7 @@ Gosto de trabalhar com componentes reutilizáveis, boas práticas, e foco total 
 📱 Totalmente responsivo  
 🔍 Exibe temperatura, vento, umidade e mais  
 
-👉 (https://lista-de-tarefas-opal-six.vercel.app/)
+👉 (https://aplicativo-de-clima-three.vercel.app/)
 
 ---
 
